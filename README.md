@@ -1,4 +1,4 @@
-# Python_jet_academy
+# Hangman
 
 HANGMAN
 Run the script to play hangman game. 
